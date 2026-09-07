@@ -1,7 +1,7 @@
 # API REST - AdventureWorks (Tarea 1 - BD2)
 
 ### Nombre y carné de los integrantes:
-Julian Lizano - [tu carné aquí]
+Julian Lizano - 2024188887
 
 ### Estado del proyecto:
 En desarrollo
